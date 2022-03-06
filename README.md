@@ -2,7 +2,7 @@
 
 # Awesome list of security courses and resources
 
-recent update: 2022/3/3
+recent update: 2022/3/6
 
 ### Courses
 
@@ -27,6 +27,8 @@ recent update: 2022/3/3
  - [Threat Analysis Labs](https://www.yurenliu.com/labs)
 
 ### Books
+ - [Practical Malware Analysis](https://www.oreilly.com/library/view/practical-malware-analysis/9781593272906/) (恶意代码分析实战)
+ 
 
 ### Tools
 
