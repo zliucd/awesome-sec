@@ -2,7 +2,6 @@
 
 # Awesome list of security courses and resources
 
-recent update: 2022/3/6
 
 ### Courses
 
@@ -13,7 +12,7 @@ recent update: 2022/3/6
  - [中信传安网络安全课程(Chinese)](https://c4pr1c3.github.io/cuc-wiki/)
 
  - [软件安全与测试(中科大)(Chinese)](http://staff.ustc.edu.cn/~sycheng/sst/index-cn.html)
- - pwn.college(https://pwn.college)
+ - [pwn.college](https://pwn.college)
 
 
 ### Reverse Engineering
