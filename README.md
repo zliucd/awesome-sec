@@ -13,6 +13,7 @@ recent update: 2022/3/6
  - [中信传安网络安全课程(Chinese)](https://c4pr1c3.github.io/cuc-wiki/)
 
  - [软件安全与测试(中科大)(Chinese)](http://staff.ustc.edu.cn/~sycheng/sst/index-cn.html)
+ - pwn.college(https://pwn.college)
 
 
 ### Reverse Engineering
@@ -28,7 +29,7 @@ recent update: 2022/3/6
 
 ### Books
  - [Practical Malware Analysis](https://www.oreilly.com/library/view/practical-malware-analysis/9781593272906/) (恶意代码分析实战)
- 
+ - [Practical Binary Analysis](https://practicalbinaryanalysis.com) (二进制分析实战)
 
 ### Tools
 
