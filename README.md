@@ -29,7 +29,15 @@
 ### Books
  - [Practical Malware Analysis](https://www.oreilly.com/library/view/practical-malware-analysis/9781593272906/) (恶意代码分析实战)
  - [Practical Binary Analysis](https://practicalbinaryanalysis.com) (二进制分析实战)
+ 
+### Awesome lists
+ - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection)
+ - [Awesome fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
+ - [Awesome malware analysis](https://github.com/rshipp/awesome-malware-analysis)
+
+### AI
+ - [AI for security learning](https://github.com/404notf0und/AI-for-Security-Learning/blob/master/README.md)
 
 ### Tools
-
+ todo
 
