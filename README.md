@@ -5,6 +5,8 @@
 
 ### Courses
 
+ - [MIT 6.857 Computer and Network Security](https://courses.csail.mit.edu/6.857/2019)
+ - [Berkeley CS 261N Internet/Network Security](https://www.icir.org/vern/cs261n/)
  - [Offensive Security, by Prof. Michalis Polychronakis(Stony Brook University)](https://www3.cs.stonybrook.edu/~mikepo/CSE363/2020/schedule/)
 
  - [北京大学网络攻防技术与实践(Chinese)](https://bbs.pku.edu.cn/v2/post-read-single.php?bid=1220&type=0&postid=7427036)
@@ -13,7 +15,12 @@
 
  - [软件安全与测试(中科大)(Chinese)](http://staff.ustc.edu.cn/~sycheng/sst/index-cn.html)
  - [pwn.college](https://pwn.college)
-
+ 
+ 
+ ### Course projects
+  Some interesting (may also be tough) small projects
+  - [MIT 6.857](https://courses.csail.mit.edu/6.857/2019/projects)
+  - [Berkeley CS 261N](https://www.icir.org/vern/cs261n/project.html)
 
 ### Reverse Engineering
 
